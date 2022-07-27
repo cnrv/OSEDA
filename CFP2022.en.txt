@@ -1,0 +1,67 @@
+# Call for Papers for the 1st OSEDA Workshop
+
+# The OSEDA community and workshop
+
+We believe that in the future, every chip designer can design, verify, and produce chips using open source instruction set (RISC-V) through open source EDA, just like using open source GNU toolchain to compile source codes written in ANSI C.
+
+
+To achieve this shared vision, active contributors from the RISC-V open source community and the EDA research field initiated the OSEDA community.
+
+The OSDEA community is committed to promoting the use of open source EDA in the RISC-V community, to promoting communication between open source EDA developers and RISC-V chip designers, to promoting the development and growth of the open source EDA technical community, especially the technical community in China.
+
+The short-term goal of the OSEDA community is to attract more than a thousand developers by 2025, and more than 10,000 developers to the open source EDA community to contribute code to open source projects by 2035.
+
+In order to promote the communication and interaction of open source EDA developers and users in China and Worldwide, the OSEDA community plans to hold the first open source EDA workshop (aka OSEDA Workshop) on the afternoon of August 28, 2022 (Sunday). This seminar will be held at the Zhangjiang Campus of ShanghaiTech University as a co-event of the 2nd RISC-V China Summit.
+
+Community website: https://oseda.io (Launch August 15th)
+
+Repo address: https://github.com/cnrv/OSEDA
+
+## Time and place
+
+Meeting time: August 28, 2022 14:00 – 18:00
+
+Venue: Lecture Hall, School of Innovation and Management, Zhangjiang Campus, ShanghaiTech University (tentative)
+
+## Organizer
+
+School of Information Science, ShanghaiTech University, OSEDA Community
+
+## Program Committee
+
+Chairman:
+Zhou Pingqiang ShanghaiTech University
+
+member:
+Biwei Xie: Institute of Computing Technology, Chinese Academy of Sciences, Pengcheng Laboratory
+Alex Guo: CNRV Community
+Wei Wu: OSDT Community, PLCT Lab
+
+## Call for Talks and Requirements
+
+OSEDA workshop accepts these topics (including but not limited to):
+• The latest achievements and progress in EDA-related technical fields.
+• Contributions in open source EDA projects, including new feature implementations, roadmaps, community operations, etc.
+• Experience sharing of tape-out using open source EDA tools.
+• The practice of open source EDA in teaching.
+
+## Submission requirements:
+
+Submissions for this seminar are by email. Please send the submission email to "Wei Wu <lazyparser@gmail.com>" and meet the following requirements:
+
+Title: Please follow the format “[OSEDA] Lecture Title – Speaker Name”
+
+Body: Please include the following:
+1. Speech title
+2. Speaker's name and affiliation or organization (for students, please fill in the school)
+3. Introduction of speech content (200-500 words)
+4. Speaker introduction (100-300 words)
+
+Please note that this symposium is not an academic publication, and unpublished academic research results should be submitted with caution.
+
+## Important dates
+
+Submission deadline: August 15, 2022
+Author notification date: August 20, 2022
+
+For issues such as submission, please contact "Wu Wei <lazyparser@gmail.com>".
